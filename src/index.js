@@ -1,0 +1,1 @@
+console.log("Execute 'npm install && npm run test' in the console to see the results!");
